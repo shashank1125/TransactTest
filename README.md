@@ -1,7 +1,11 @@
 Project Overview:
+
+
 This project focuses on automation testing for an e-commerce website. The goal of this project is to ensure the stability, functionality, and performance of key features such as user registration, login, product search, add to cart, and payment processes. Automated test cases are written to verify that the core functionalities work as expected across different scenarios and platforms.
 
 Features Tested:
+
+
 User Registration: Verifying user sign-up functionality with valid/invalid data.
 Login/Logout: Testing login with different credentials, handling invalid logins, and logout operations.
 Product Search: Testing product search using keywords, filtering by category, and verifying product results.
@@ -15,6 +19,8 @@ Test Runner: [PyTest/TestNG/Mocha]
 Browser Support: [Chrome, Firefox, Safari]
 
 Prerequisites
+
+
 To run this project, ensure you have the following dependencies installed:
 
 [Browser Driver] (e.g., ChromeDriver, GeckoDriver)
